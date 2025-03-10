@@ -4,6 +4,7 @@ public class Point {
 
    public String toString(){
        return "P lezy w "+ x +" "+ y;
+       //sa
 
     }
 
